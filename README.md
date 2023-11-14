@@ -27,6 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Trie – Cây Tiền Tố &lpar;Cây Từ Điển&rpar; là gì?](https://ant.ncc.asia/trie-cay-tien-to-cay-tu-dien-la-gi/?utm_source=rss&utm_medium=rss&utm_campaign=trie-cay-tien-to-cay-tu-dien-la-gi)
+- [Hợp ngữ Assembly – Ngôn ngữ bậc thấp](https://ant.ncc.asia/hop-ngu-assembly-ngon-ngu-bac-thap/?utm_source=rss&utm_medium=rss&utm_campaign=hop-ngu-assembly-ngon-ngu-bac-thap)
+- [GIT vs SVN: Quá trình hình thành và phát triển](https://ant.ncc.asia/git-vs-svn-qua-trinh-hinh-thanh-va-phat-trien/?utm_source=rss&utm_medium=rss&utm_campaign=git-vs-svn-qua-trinh-hinh-thanh-va-phat-trien)
+- [JIRA Atlassian: Quản lý Dự án Hiệu quả](https://ant.ncc.asia/jira-atlassian-quan-ly-du-an-hieu-qua/?utm_source=rss&utm_medium=rss&utm_campaign=jira-atlassian-quan-ly-du-an-hieu-qua)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

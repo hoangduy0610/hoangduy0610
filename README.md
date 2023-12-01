@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duy (Howard) Nguyen Hoang</h1>
-<h3 align="center">Young boy with energy!</h3>
+<h3 align="center">Young boy with energy!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangduy0610&label=Profile%20views&color=0e75b6&style=flat" alt="hoangduy0610" /> </p>
 

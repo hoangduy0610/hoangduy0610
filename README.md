@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Decision Tree – Cây Hỗ Trợ Quyết Định](https://ant.ncc.asia/decision-tree-cay-ho-tro-quyet-dinh/?utm_source=rss&utm_medium=rss&utm_campaign=decision-tree-cay-ho-tro-quyet-dinh)
-- [Trie – Cây Tiền Tố &lpar;Cây Từ Điển&rpar; là gì?](https://ant.ncc.asia/trie-cay-tien-to-cay-tu-dien-la-gi/?utm_source=rss&utm_medium=rss&utm_campaign=trie-cay-tien-to-cay-tu-dien-la-gi)
-- [Hợp ngữ Assembly – Ngôn ngữ bậc thấp](https://ant.ncc.asia/hop-ngu-assembly-ngon-ngu-bac-thap/?utm_source=rss&utm_medium=rss&utm_campaign=hop-ngu-assembly-ngon-ngu-bac-thap)
-- [GIT vs SVN: Quá trình hình thành và phát triển](https://ant.ncc.asia/git-vs-svn-qua-trinh-hinh-thanh-va-phat-trien/?utm_source=rss&utm_medium=rss&utm_campaign=git-vs-svn-qua-trinh-hinh-thanh-va-phat-trien)
+- [Blockchain 101 – Ep 1: Blockchain là gì?](https://ant.ncc.asia/blockchain-101-ep-1-blockchain-la-gi/?utm_source=rss&utm_medium=rss&utm_campaign=blockchain-101-ep-1-blockchain-la-gi)
+- [Nhập môn Machine Learning – Phần 6: Neural Network](https://ant.ncc.asia/nhap-mon-machine-learning-phan-6-neural-network/?utm_source=rss&utm_medium=rss&utm_campaign=nhap-mon-machine-learning-phan-6-neural-network)
+- [Nhập môn Machine Learning – Phần 5: Computational Graph](https://ant.ncc.asia/nhap-mon-machine-learning-phan-5-computational-graph/?utm_source=rss&utm_medium=rss&utm_campaign=nhap-mon-machine-learning-phan-5-computational-graph)
+- [Giới thiệu về Cây Fenwick &lpar;Binary Indexed Tree&rpar;](https://ant.ncc.asia/gioi-thieu-ve-cay-fenwick-binary-indexed-tree/?utm_source=rss&utm_medium=rss&utm_campaign=gioi-thieu-ve-cay-fenwick-binary-indexed-tree)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

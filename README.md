@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Lễ Giáng Sinh – Top sự thật thú vị](https://ant.ncc.asia/le-giang-sinh-top-su-that-thu-vi/?utm_source=rss&utm_medium=rss&utm_campaign=le-giang-sinh-top-su-that-thu-vi)
 - [Blockchain 101 – Ep 1: Blockchain là gì?](https://ant.ncc.asia/blockchain-101-ep-1-blockchain-la-gi/?utm_source=rss&utm_medium=rss&utm_campaign=blockchain-101-ep-1-blockchain-la-gi)
 - [Nhập môn Machine Learning – Phần 6: Neural Network](https://ant.ncc.asia/nhap-mon-machine-learning-phan-6-neural-network/?utm_source=rss&utm_medium=rss&utm_campaign=nhap-mon-machine-learning-phan-6-neural-network)
 - [Nhập môn Machine Learning – Phần 5: Computational Graph](https://ant.ncc.asia/nhap-mon-machine-learning-phan-5-computational-graph/?utm_source=rss&utm_medium=rss&utm_campaign=nhap-mon-machine-learning-phan-5-computational-graph)
-- [Giới thiệu về Cây Fenwick &lpar;Binary Indexed Tree&rpar;](https://ant.ncc.asia/gioi-thieu-ve-cay-fenwick-binary-indexed-tree/?utm_source=rss&utm_medium=rss&utm_campaign=gioi-thieu-ve-cay-fenwick-binary-indexed-tree)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

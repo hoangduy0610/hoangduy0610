@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JS From Zero To Hero – P2: Array &amp; Loop](https://ant.ncc.asia/js-from-zero-to-hero-p2-array-loop/?utm_source=rss&utm_medium=rss&utm_campaign=js-from-zero-to-hero-p2-array-loop)
+- [Blockchain 101 – Ep 2: Cryptocurrency, ETH và BTC](https://ant.ncc.asia/blockchain-101-tap-2-cryptocurrency-eth-va-btc/?utm_source=rss&utm_medium=rss&utm_campaign=blockchain-101-tap-2-cryptocurrency-eth-va-btc)
+- [JS From Zero To Hero – P1: Nhập môn](https://ant.ncc.asia/js-from-zero-to-hero-p1-nhap-mon/?utm_source=rss&utm_medium=rss&utm_campaign=js-from-zero-to-hero-p1-nhap-mon)
 - [Tôi đã đánh bại bài khó nhất trong Contest cuối năm 2023 như thế nào?](https://ant.ncc.asia/toi-da-danh-bai-bai-kho-nhat-trong-contest-cuoi-nam-2023-nhu-the-nao/?utm_source=rss&utm_medium=rss&utm_campaign=toi-da-danh-bai-bai-kho-nhat-trong-contest-cuoi-nam-2023-nhu-the-nao)
-- [Lễ Giáng Sinh – Top sự thật thú vị](https://ant.ncc.asia/le-giang-sinh-top-su-that-thu-vi/?utm_source=rss&utm_medium=rss&utm_campaign=le-giang-sinh-top-su-that-thu-vi)
-- [Blockchain 101 – Ep 1: Blockchain là gì?](https://ant.ncc.asia/blockchain-101-ep-1-blockchain-la-gi/?utm_source=rss&utm_medium=rss&utm_campaign=blockchain-101-ep-1-blockchain-la-gi)
-- [Nhập môn Machine Learning – Phần 6: Neural Network](https://ant.ncc.asia/nhap-mon-machine-learning-phan-6-neural-network/?utm_source=rss&utm_medium=rss&utm_campaign=nhap-mon-machine-learning-phan-6-neural-network)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

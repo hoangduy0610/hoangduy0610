@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain 101 – Ep 5: DeFi – Bước Đi Mới trong Hệ Sinh Thái Blockchain](https://ant.ncc.asia/blockchain-101-ep-5-defi-buoc-di-moi-trong-he-sinh-thai-blockchain/?utm_source=rss&utm_medium=rss&utm_campaign=blockchain-101-ep-5-defi-buoc-di-moi-trong-he-sinh-thai-blockchain)
+- [Blockchain 101 – Ep 4: ICO và Tokenization: Blockchain Thay Đổi Cách Chúng Ta Gọi Vốn Ra Sao?](https://ant.ncc.asia/blockchain-101-ep-4-ico-va-tokenization-blockchain-thay-doi-cach-chung-ta-goi-von-ra-sao/?utm_source=rss&utm_medium=rss&utm_campaign=blockchain-101-ep-4-ico-va-tokenization-blockchain-thay-doi-cach-chung-ta-goi-von-ra-sao)
 - [Blockchain 101 – Ep3: Smart Contract](https://ant.ncc.asia/blockchain-101-ep3-smart-contract/?utm_source=rss&utm_medium=rss&utm_campaign=blockchain-101-ep3-smart-contract)
 - [JS From Zero To Hero – P2: Array &amp; Loop](https://ant.ncc.asia/js-from-zero-to-hero-p2-array-loop/?utm_source=rss&utm_medium=rss&utm_campaign=js-from-zero-to-hero-p2-array-loop)
-- [Blockchain 101 – Ep 2: Cryptocurrency, ETH và BTC](https://ant.ncc.asia/blockchain-101-tap-2-cryptocurrency-eth-va-btc/?utm_source=rss&utm_medium=rss&utm_campaign=blockchain-101-tap-2-cryptocurrency-eth-va-btc)
-- [JS From Zero To Hero – P1: Nhập môn](https://ant.ncc.asia/js-from-zero-to-hero-p1-nhap-mon/?utm_source=rss&utm_medium=rss&utm_campaign=js-from-zero-to-hero-p1-nhap-mon)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

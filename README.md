@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [NCC – Sổ tay ANT cho nhân viên NCC](https://ant.ncc.asia/ncc-so-tay-ant-cho-nhan-vien-ncc/?utm_source=rss&utm_medium=rss&utm_campaign=ncc-so-tay-ant-cho-nhan-vien-ncc)
 - [Lập trình lượng tử cơ bản với Qiskit – P1: Mạch cộng](https://ant.ncc.asia/lap-trinh-luong-tu-co-ban-voi-qiskit-p1-mach-cong/?utm_source=rss&utm_medium=rss&utm_campaign=lap-trinh-luong-tu-co-ban-voi-qiskit-p1-mach-cong)
 - [Blockchain 101 – Ep 5: DeFi – Bước Đi Mới trong Hệ Sinh Thái Blockchain](https://ant.ncc.asia/blockchain-101-ep-5-defi-buoc-di-moi-trong-he-sinh-thai-blockchain/?utm_source=rss&utm_medium=rss&utm_campaign=blockchain-101-ep-5-defi-buoc-di-moi-trong-he-sinh-thai-blockchain)
 - [Blockchain 101 – Ep 4: ICO và Tokenization: Blockchain Thay Đổi Cách Chúng Ta Gọi Vốn Ra Sao?](https://ant.ncc.asia/blockchain-101-ep-4-ico-va-tokenization-blockchain-thay-doi-cach-chung-ta-goi-von-ra-sao/?utm_source=rss&utm_medium=rss&utm_campaign=blockchain-101-ep-4-ico-va-tokenization-blockchain-thay-doi-cach-chung-ta-goi-von-ra-sao)
-- [Blockchain 101 – Ep3: Smart Contract](https://ant.ncc.asia/blockchain-101-ep3-smart-contract/?utm_source=rss&utm_medium=rss&utm_campaign=blockchain-101-ep3-smart-contract)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

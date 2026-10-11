@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangduy0610&label=Profile%20views&color=0e75b6&style=flat" alt="hoangduy0610" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=hoangduy0610" alt="hoangduy0610" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-repo.vercel.app/?username=hoangduy0610" alt="hoangduy0610" /></a> </p>
 
 - 🔭 I’m currently working at [NCCPLUS JSC.](https://ncc.asia/)
 
